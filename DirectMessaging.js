@@ -39,10 +39,9 @@ const DirectMessaging = () => {
     return(
         <ChatEngine
             height='100vh'
-            userName='joebruin'
-        
-            userSecret='foobar'
-            projectID='e57e3b44-5d54-4a60-a988-703a68727184'
+            userName='xxxxx'
+            userSecret='xxxxx'
+            projectID='xxxxx'
             displayNewChatInterface={(credentials) => displayChatInterface(credentials)}
             />
     )
